@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//filiprag.github.io/monsters-random-gen/static/css/main.e13d4841.chunk.css",
+    "main.js": "/https//filiprag.github.io/monsters-random-gen/static/js/main.9245d091.chunk.js",
+    "main.js.map": "/https//filiprag.github.io/monsters-random-gen/static/js/main.9245d091.chunk.js.map",
+    "runtime-main.js": "/https//filiprag.github.io/monsters-random-gen/static/js/runtime-main.eb4c1cb5.js",
+    "runtime-main.js.map": "/https//filiprag.github.io/monsters-random-gen/static/js/runtime-main.eb4c1cb5.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/https//filiprag.github.io/monsters-random-gen/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/https//filiprag.github.io/monsters-random-gen/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/https//filiprag.github.io/monsters-random-gen/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/https//filiprag.github.io/monsters-random-gen/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/https//filiprag.github.io/monsters-random-gen/index.html",
+    "static/css/main.e13d4841.chunk.css.map": "/https//filiprag.github.io/monsters-random-gen/static/css/main.e13d4841.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/https//filiprag.github.io/monsters-random-gen/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb4c1cb5.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.e13d4841.chunk.css",
+    "static/js/main.9245d091.chunk.js"
+  ]
+}
